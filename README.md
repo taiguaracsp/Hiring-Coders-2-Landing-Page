@@ -16,6 +16,7 @@ Landing Page developed for the first challenge of Hiring Coders #2 of Gama Acade
 
 - HTML
 - CSS
+- JavaScript
 
 
 
