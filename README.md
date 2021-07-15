@@ -8,7 +8,7 @@ Landing Page developed for the first challenge of Hiring Coders #2 of Gama Acade
 
 ### Preview:
 
-![Landing Page Preview](preview/Landing Page.jpg)
+![Landing Page Preview](preview/LandingPage.jpg)
 
 
 
@@ -22,4 +22,3 @@ Landing Page developed for the first challenge of Hiring Coders #2 of Gama Acade
 ### Credits:
 
 <a href="www.freepik.com">Business PSD created by Freepik.</a>
-
