@@ -150,6 +150,15 @@ header .nav a:hover{
 }
 
 @media (max-width: 636px){
+    header{
+        margin: 0;
+        padding: 5%;
+    }
+
+    header .nav a{
+        padding: 0;
+    }
+
     .content{
         margin: 5%;
     }
@@ -171,6 +180,10 @@ header .nav a:hover{
     section {
         background-position: inherit;
         background-size: auto;
+    }
+
+    .footer{
+        margin: 5%;
     }
 }
 
