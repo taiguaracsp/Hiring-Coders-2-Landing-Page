@@ -151,7 +151,7 @@ header .nav a:hover{
 
 @media (max-width: 636px){
     .content{
-        margin: 15%;
+        margin: auto;
     }
 
     .content .info h2{
