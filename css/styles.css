@@ -150,6 +150,10 @@ header .nav a:hover{
 }
 
 @media (max-width: 636px){
+    .content{
+        margin: 15%;
+    }
+
     .content .info h2{
         font-size: 35px;
         line-height: 40px;
