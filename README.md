@@ -22,4 +22,4 @@ Landing Page developed for the first challenge of Hiring Coders #2 of Gama Acade
 
 ### Credits:
 
-<a href="www.freepik.com">Business PSD created by Freepik.</a>
+<a href="https://www.freepik.com">Business PSD created by Freepik.</a>
